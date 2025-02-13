@@ -95,7 +95,7 @@ Para ejecutar este proyecto en tu máquina local, sigue estos pasos:
 
 1. **Clona el repositorio**:
    ```bash
-   git clone https://github.com/tu-repositorio/react-basico.git
+   https://github.com/Facuud2/TurboStore---React
    ```
 
 2. **Instala las Dependencias**:
