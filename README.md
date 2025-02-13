@@ -1,4 +1,4 @@
-"# 🚀 **Bienvenidos al Curso Básico de ReactJS** 🚀
+# 🚀 **Bienvenidos al Curso Básico de ReactJS** 🚀
 
 Este repositorio contiene un proyecto básico de **ReactJS** utilizando **Vite** y **Tailwind CSS**. El objetivo es enseñarles cómo crear una aplicación simple de e-commerce paso a paso, utilizando componentes reutilizables y buenas prácticas de desarrollo.
 
@@ -102,13 +102,17 @@ Para ejecutar este proyecto en tu máquina local, sigue estos pasos:
    ```bash
    npm install
    ```
+3. **Copia y pega el archivo Gist de la base de datos en el archivo `App.jsx`**
+```bash
+https://gist.github.com/Facuud2/f51f4e425e0bb6cd630d833a682b96d6
+```
 
-3. **Inicia la Aplicación**:
+4. **Inicia la Aplicación**:
    ```bash
    npm run dev
    ```
 
-4. **Accede a la Aplicación**:
+5. **Accede a la Aplicación**:
    Abre tu navegador y navega a `http://localhost:5173/` para ver la aplicación en ejecución.
 
 ---
@@ -119,6 +123,7 @@ Te dejo algunos recursos útiles para profundizar en React y Tailwind CSS:
 - Documentación oficial de React : https://reactjs.org/ 
 - Documentación oficial de Tailwind CSS : https://tailwindcss.com/ 
 - Documentación oficial de Vite : https://vitejs.dev/guide/ 
+- Link de Gist para obtener la DB: https://gist.github.com/Facuud2/f51f4e425e0bb6cd630d833a682b96d6 (Copiar y pegar)
 
 ---
 ## 🎉 Conclusión  
